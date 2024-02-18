@@ -1,6 +1,6 @@
 ## pve-nag-buster 
 ORIGINAL: https://github.com/foundObjects/pve-nag-buster
-NOTE: a few parts of this README was modified (foundObjects changed to xucian) to download the script from here instead. The reason I forked this is to have an invariant version
+NOTE: a few parts of this README were modified (foundObjects changed to xucian) to download the script from here instead. The reason I forked this is to have an invariant version
 
 `pve-nag-buster` is a dpkg hook script that persistently removes license nags
 from Proxmox VE 6.x and up. Install it once and you won't see another license
